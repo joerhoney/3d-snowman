@@ -1,7 +1,7 @@
 **3D Modeling Class: Assignment 1**
-# [Snowman](https://joerhoney.github.io/threejs-blender/)
+# [Snowman](https://joerhoney.github.io/3d-snowman/)
 
-![Screenshot of snowman](https://github.com/joerhoney/threejs-blender/blob/main/snowman-screenshot.jpg)
+![Screenshot of snowman](https://github.com/joerhoney/3d-snowman/blob/main/snowman-screenshot.jpg)
 
 ## Objective
 * Use geometry and transform tools to create a snowman.
